@@ -1,4 +1,4 @@
-# Supply Chain Management Practice Project
+# Supply Chain Management Project
 
 ## Invitation Acceptance & Others
   1. Accept Collaboratioon Invitation link from your mail
