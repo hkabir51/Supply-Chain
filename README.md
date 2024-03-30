@@ -1,7 +1,7 @@
 # Supply Chain Management Project
 
 ## Invitation Acceptance & Others
-  1. Accept Collaboratioon Invitation link from your mail
+  1. Accept Collaboration Invitation link from your mail
   2. Open GitHub Desktop
   3. Login your GitHub Account from GitHub Desktop
   4. Select Supply-Chain Repository
