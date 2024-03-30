@@ -16,7 +16,7 @@
   4. Click Compare & Review
   5. Click <b> Create a PULL</b> Request
      
-### <> Diponkor Roy > Page : Key Martics
+### :: Diponkor Roy > Page : Key Martics
 <img src = "image/KeyMatrices.jpg" width = "700" hight = "300" >
 
 ### :: Farhana Haq > Page : Order-1
