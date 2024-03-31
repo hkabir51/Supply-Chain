@@ -1,5 +1,5 @@
 # Supply Chain Management Project
-
+### Project Closing Date : 08-04-2024 (Monday)
 ## Invitation Acceptance & Others
   1. Accept Collaboration Invitation link from your mail
   2. Open GitHub Desktop
@@ -16,7 +16,7 @@
   4. Click Compare & Review
   5. Click <b> Create a PULL</b> Request
      
-### :: Diponkor Roy > Page : Key Martics
+### :: Diponkar Roy > Page : Key Martics
 <img src = "image/KeyMatrices.jpg" width = "700" hight = "300" >
 
 ### :: Farhana Haq > Page : Order-1
