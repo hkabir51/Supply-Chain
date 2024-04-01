@@ -1,5 +1,5 @@
 {
-  "config": "{\"version\":\"5.51\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU02\",\"version\":\"5.51\",\"type\":2}},\"activeSectionIndex\":7,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}",
+  "config": "{\"version\":\"5.51\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU02\",\"version\":\"5.51\",\"type\":2}},\"activeSectionIndex\":3,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}",
   "layoutOptimization": 0,
   "resourcePackages": [
     {
@@ -205,51 +205,91 @@
     },
     {
       "config": "{}",
-      "displayName": "Orders1",
+      "displayName": "Farhana",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSection65d00f454afadb834261",
       "ordinal": 1,
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"d46d6e1cd429e2a7300a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":203.04000000000002,\"height\":70.56,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Order-1\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"At a Glance\",\"textStyle\":{\"fontSize\":\"14pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
+          "filters": "[]",
+          "height": 70.56,
+          "width": 203.04,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     },
     {
       "config": "{}",
-      "displayName": "Products",
+      "displayName": "Yousuf-1",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSection671d1a26df8201f2ac93",
       "ordinal": 7,
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"d7d254c26d87ca74678a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":168.48000000000002,\"height\":74.88000000000001,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Products\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]},{\"textRuns\":[{\"value\":\"At a Glance\",\"textStyle\":{\"fontSize\":\"14pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 74.88,
+          "width": 168.48,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     },
     {
       "config": "{}",
-      "displayName": "LineLeadTime-1",
+      "displayName": "IffatFeroji",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSectionac692610ec98dbc720a4",
       "ordinal": 6,
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"ccbe3b6052dd2aee341e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":279.36,\"height\":74.88000000000001,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Line Lead Time-1\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Analysis\",\"textStyle\":{\"fontSize\":\"14pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
+          "filters": "[]",
+          "height": 74.88,
+          "width": 279.36,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     },
     {
       "config": "{}",
-      "displayName": "ServiceLevel",
+      "displayName": "Tanvir",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSectionb01b294558187ab83b5f",
       "ordinal": 2,
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"606ee3e0b3d640320207\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":279.36,\"height\":74.88000000000001,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Service Level\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Analysis\",\"textStyle\":{\"fontSize\":\"14pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
+          "filters": "[]",
+          "height": 74.88,
+          "width": 279.36,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     },
     {
       "config": "{}",
-      "displayName": "LineLeadTime",
+      "displayName": "Yousuf",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
@@ -275,7 +315,7 @@
           "z": 2000.00
         },
         {
-          "config": "{\"name\":\"c7ac69be1d17b9566611\",\"layouts\":[{\"id\":0,\"position\":{\"x\":11.00169779286927,\"y\":3.66723259762309,\"z\":1000,\"width\":286.044142614601,\"height\":75.78947368421053,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"LINE LEAD TIME\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]},{\"textRuns\":[{\"value\":\"ANALYSIS\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"14pt\"}}]}]}}]}}}",
+          "config": "{\"name\":\"c7ac69be1d17b9566611\",\"layouts\":[{\"id\":0,\"position\":{\"x\":11.00169779286927,\"y\":3.66723259762309,\"z\":1000,\"width\":286.044142614601,\"height\":75.78947368421053,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"LINE LEAD TIME\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]},{\"textRuns\":[{\"value\":\"ANALYSIS\",\"textStyle\":{\"fontSize\":\"14pt\"}}]}]}}]}}}",
           "filters": "[]",
           "height": 75.79,
           "width": 286.04,
@@ -288,13 +328,23 @@
     },
     {
       "config": "{}",
-      "displayName": "KeyMatrics",
+      "displayName": "Diponkar",
       "displayOption": 1,
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSectionb6c0d5f31b0f7b235faa",
       "ordinal": 3,
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"2bd38a574895307778aa\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":279.36,\"height\":74.88000000000001,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Trends for\",\"textStyle\":{\"fontSize\":\"12pt\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Key Matrices\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
+          "filters": "[]",
+          "height": 74.88,
+          "width": 279.36,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     }
   ]
