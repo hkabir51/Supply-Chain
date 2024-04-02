@@ -13,8 +13,8 @@
   1. Update your page in Power BI and Save
   2. Commit in GitHub Desktop
   3. <b>PUSH </b> to <b>DEVELOPMENT</b> branch
-  4. Click Compare & Review
-  5. Click <b> Create a PULL</b> Request
+  4. Click <b> Compare & pull request</b>
+  5. Click <b> Create PULL Request </b>
      
 ### :: Diponkar Roy > Page : Key Martics
 <img src = "image/KeyMatrices.jpg" width = "700" hight = "300" >
