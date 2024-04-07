@@ -8,7 +8,7 @@
       },
       {
         "name": "PBIDesktopVersion",
-        "value": "2.127.1235.0 (24.03)"
+        "value": "2.127.1327.0 (24.03)"
       },
       {
         "name": "PBI_QueryOrder",
@@ -242,10 +242,32 @@
                 "value": "Automatic"
               }
             ],
+            "changedProperties": [
+              {
+                "property": "SortByColumn"
+              }
+            ],
             "dataType": "string",
             "lineageTag": "65b525a3-a9f3-4a99-ae68-caff52a93f14",
+            "sortByColumn": "month_no",
             "sourceColumn": "Month Name",
             "summarizeBy": "none"
+          },
+          {
+            "name": "month_no",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "expression": "MONTH(dim_date[date])",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "lineageTag": "956ef7d1-04d8-416a-b120-352bf8da1292",
+            "summarizeBy": "sum",
+            "type": "calculated"
           }
         ],
         "lineageTag": "3b52e0f1-04ef-43f9-822f-59cbf418d6f1",
