@@ -300,15 +300,6 @@
           "z": 2000.00
         },
         {
-          "config": "{\"name\":\"4192a94c031ab4604735\",\"layouts\":[{\"id\":0,\"position\":{\"x\":459.62648556876064,\"y\":63.565365025466896,\"z\":8001,\"width\":402.1731748726655,\"height\":79.45670628183362,\"tabOrder\":9001}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"try\"}]}]}}]}}}",
-          "filters": "[]",
-          "height": 79.46,
-          "width": 402.17,
-          "x": 459.63,
-          "y": 63.57,
-          "z": 8001.00
-        },
-        {
           "config": "{\"name\":\"426c28f05668611c5b30\",\"layouts\":[{\"id\":0,\"position\":{\"x\":28.253968253968253,\"y\":200.47619047619048,\"z\":7000,\"width\":114.44444444444444,\"height\":36.666666666666664,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":{\"propertyIdentifier\":{\"objectName\":\"values\",\"propertyName\":\"expr\"},\"selector\":{\"id\":\"Value\"}},\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"12pt\",\"color\":\"#e66c37\"}}]}]}}],\"values\":[{\"properties\":{\"expr\":{\"expr\":{\"Min\":{\"Expression\":{\"Column\":{\"Expression\":{\"Subquery\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"_\",\"Entity\":\"_Farhana\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"OTIF% Variance\"},\"Name\":\"_Farhana.OTIF% Variance\"}]}}},\"Property\":\"_Farhana.OTIF% Variance\"}},\"IncludeAllTypes\":1},\"Annotations\":{\"NaturalLanguage\":{\"version\":1,\"kind\":\"NaturalLanguage\",\"annotation\":{\"name\":\"Value\",\"utterance\":\"otif% variance\"}}}}}},\"selector\":{\"id\":\"Value\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"general\":[{\"properties\":{\"keepLayerOrder\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"338f857091614a74a806\"}",
           "filters": "[]",
           "height": 36.67,
